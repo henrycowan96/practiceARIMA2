@@ -1,1 +1,4 @@
+gcc
+g++
+libatlas-base-dev
 
