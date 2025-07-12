@@ -1,4 +1,8 @@
-gcc
-g++
 libatlas-base-dev
+g++
+gcc
+# …any other existing packages…
 
+# Build‑prereqs for pmdarima
+build-essential
+python3-dev
